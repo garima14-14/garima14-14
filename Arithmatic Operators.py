@@ -1,0 +1,12 @@
+a=int(input("enter first value 2"))
+b=int(input("enter second value 3"))
+c=a+b
+print ("addition=",c)
+c=a-b
+print ("subtraction=",c)
+c=a*b
+print ("multiplication=",c)
+c=a/b
+print ("division=", c)
+c=a%b
+print ("mode=" ,c)
